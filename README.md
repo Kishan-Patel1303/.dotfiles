@@ -1,6 +1,7 @@
 # .dotfiles
 
 TODO: Will update this more in the future.
+FIXME: Bug Check.
 
 # My Dotfiles
 These are my dotfile configuration files for different software in Bash.
